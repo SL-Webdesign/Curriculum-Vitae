@@ -1,4 +1,4 @@
-## Curriculum-Vitae Simon Lemaire
+# Curriculum-Vitae Simon Lemaire
 
 Ceci est mon CV réalisé via Adobe Illustrator
 
